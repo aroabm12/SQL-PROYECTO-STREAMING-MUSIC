@@ -18,8 +18,6 @@ exploratorio completo con insights de negocio extraídos mediante SQL.
 
 ## Estructura del proyecto
 
-📁 proyecto-sql-streaming/
-
 - 01_schema.sql → Creación de tablas, PKs, FKs, constraints, índices, función y vistas de negocio
 - 02_data.sql → Carga de datos (INSERT), procedimiento de calendario, UPDATEs y transacciones
 - 03_eda.sql → Análisis exploratorio completo: limpieza, validación y 12 consultas analíticas
