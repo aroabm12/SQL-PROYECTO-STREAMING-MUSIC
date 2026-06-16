@@ -1,4 +1,4 @@
-# Proyecto SQL: Plataforma de Streaming de Música 🎵
+# Proyecto SQL: Plataforma de Streaming de Música 
 
 ## Descripción
 
