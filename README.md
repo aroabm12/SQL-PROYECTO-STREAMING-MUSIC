@@ -148,5 +148,5 @@ Los días laborables generan más del doble de reproducciones que los fines de s
 ---
 
 ## Autor
-[Aroa Barberán Martín]
+Aroa Barberán Martín
 Junio 2026
