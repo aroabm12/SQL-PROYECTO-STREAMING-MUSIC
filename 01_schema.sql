@@ -8,7 +8,6 @@
 --           vistas de negocio y función auxiliar.
 -- ============================================================
 
--- Ejecutar siempre desde cero sin errores
 DROP DATABASE IF EXISTS streaming_db;
 CREATE DATABASE streaming_db
   CHARACTER SET utf8mb4
